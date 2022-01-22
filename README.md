@@ -7,7 +7,7 @@ The puporse of this project is to find the most popular type of day to pick up a
 
 ### By **{Ruth Nguli}**
 
-#Methods Used
+# Methods Used
 Descriptive statistics 
 Univariate Analysis
 Bivariate Analysis
