@@ -2,29 +2,30 @@
 
 This is a Univariate,Bivariate Data Analysis and Hypothesis Testing.
 
-Project Obective
+#Project Obective
 The puporse of this project is to find the most popular type of day to pick up a shared electric car in city of Paris in the 2018.
 
-By {Ruth Nguli}
-Methods Used
+### By **{Ruth Nguli}**
+
+# Used
 Descriptive statistics 
 Univariate Analysis
 Bivariate Analysis
 Hypothesis Testing
 
-Technologies Used
+##Technologies Used
 Python, pandas, numpy, matploti, seaborn and Google Colab
 
-Project Description
+#Project Description
 The dataset used is a Autolib excel dataset Data. The dataset contains data collected for a period of days based on a survey carried April 2018.
 
-Needed for this Project
+#Needed for this Project
 Defining the question, Reading Data, Checking Data, Data cleaning and Exploratory Data Analysis
 
-Support and contact details
+##Support and contact details
 Kindly feel free to comment on this code for any information , contributions, ideas or concerns. Also reach me via my email address ruthnguli4@gmail.com
 
-License
+##License
 MIT License
 
 Copyright (c) [2021] [Ruth Nguli]
